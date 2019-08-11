@@ -1,0 +1,65 @@
+
+
+h1 {
+
+ color: black;
+ text-align: center;
+ font: italic 200% fantasy;
+        
+}
+
+h2{
+ color: black;
+ text-align: left;
+ font: italic 200% fantasy;
+        
+}
+
+
+.header {
+    background-color:#FFFF94;
+    color:black;
+    text-align:center;
+    padding:60px;
+    height:300px;
+    font-style: arial;
+    font-size: 30px;
+    
+}
+.nav {
+    line-height:30px;
+    background-color:#D8BFD8;
+    height:200px;
+    width:1250px;
+    float:left;
+    padding:50px;
+      
+}
+#section {
+    background-color:#FFFFFF;
+    height:740px;
+    width:1290px;
+    float:
+    padding:48px;
+   
+     	 
+}
+#footer {
+    background-color:#D8BFD8;
+    color:black;
+    clear:both;
+    text-align:center;
+    padding:6px;
+    width:1280px;
+    float:
+	
+    
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
